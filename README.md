@@ -1,4 +1,4 @@
 # SupriyaRajbhar
 this is my first Git Repository.
 <br>
-author - Supriya rajbhar
+author - Supriya Rajbhar
